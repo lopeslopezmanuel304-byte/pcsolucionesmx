@@ -1,0 +1,21 @@
+PC SOLUCIONES MX - SITIO WEB
+============================
+
+Para visualizar:
+1. Descomprime el archivo ZIP.
+2. Abre index.html con Chrome, Edge, Firefox o Safari.
+3. Para publicar el sitio, sube todos los archivos y carpetas a tu hosting conservando la estructura.
+
+Incluye:
+- Logotipo corporativo ampliado en el encabezado.
+- Mascota FIXIES en la portada.
+- Asistente interactivo FIXIES con opciones de orientación y enlaces personalizados a WhatsApp.
+- Catálogo de servicios, equipos, atención a negocios, preguntas frecuentes y contacto.
+- Diseño adaptable a computadoras, tabletas y celulares con acentos adicionales en azul, verde, turquesa y violeta.
+
+Contacto:
+WhatsApp: 55 7192 8724
+Correo: pcsolucionesdf@gmail.com
+Dirección: Calle Tejocotes #1, Col. San Miguel Topilejo, C.P. 14500, Alcaldía Tlalpan, CDMX
+
+Nota: FIXIES brinda orientación inicial automatizada; la revisión técnica, diagnóstico, cotización y confirmación de cobertura se realizan directamente con PC Soluciones MX.
